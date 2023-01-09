@@ -7,12 +7,14 @@ from each cell you can either move only to the right or down
 
 Input:  M = 2, N = 2
 Output: 2
+
 Explanation: There are two paths
 (0, 0) -> (0, 1) -> (1, 1)
 (0, 0) -> (1, 0) -> (1, 1)
 
 Input:  M = 2, N = 3
 Output: 3
+
 Explanation: There are three paths
 (0, 0) -> (0, 1) -> (0, 2) -> (1, 2)
 (0, 0) -> (0, 1) -> (1, 1) -> (1, 2)
