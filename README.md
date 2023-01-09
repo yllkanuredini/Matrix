@@ -2,6 +2,7 @@
 Count all possible paths from top left to bottom right of a mXn matrix
 => The problem is to count all the possible paths from the top left to the bottom right of a M X N matrix with the constraints that 
 from each cell you can either move only to the right or down
+
 => Examples: 
 
 Input:  M = 2, N = 2
